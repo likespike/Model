@@ -1,6 +1,13 @@
 # 출처
 https://github.com/hayashimasa/UNet-PyTorch
 
+# 사용법 (colab)
+- colab에서 custom library를 import하는 방법은 두 가지임
+  - git clone하여 해당 파일, 폴더들을 /content인 root directory로 이동 후 import
+  - or ipynb파일이 있는 경로에 git clone -> 해당 디렉터리로 cd명령어로 이동 후 import
+- Models 저장소에 하위 폴더로 model들이 있기 때문에 하위 폴더만 clone해야 하는데, 관련 코드는 ipynb파일에 포함돼 있음
+
+
 # 개론
 - Approaches for Semantic Segmentation
 - Early Approaches
