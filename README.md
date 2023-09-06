@@ -10,3 +10,6 @@
 
 ### U-NET
 - Convolutional Networks for Biomedical Image Segmentation
+
+### UNet++ (수정중)
+- UNet++: A Nested U-Net Architecture for Medical Image Segmentation (2018)
