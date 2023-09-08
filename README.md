@@ -13,3 +13,15 @@
 
 ### UNet++ (수정중)
 - UNet++: A Nested U-Net Architecture for Medical Image Segmentation (2018)
+
+# 기타
+- github 빈 폴더 commit하기
+  - git clone으로 repository 복사
+  - directory만들고 그 안에 touch .gitkeep으로 파일들 만들기
+  - git add 'directory'로 add하기
+  - git commit -m 'upload empty folders'
+  - git push
+
+
+
+
