@@ -1,6 +1,10 @@
+# 출처
+- https://github.com/4uiiurz1/pytorch-nested-unet
+
+
 # 수정 사항
-- data path 수정
-- Data loading code 두 군데 수정
+- git clone 관련 추가
+- kaggle API로 dataset 다운 관련 추가
 - Albumentations 부분
     - import albumentations 부분
     - FutureWarning 관련 augmentations 수정
