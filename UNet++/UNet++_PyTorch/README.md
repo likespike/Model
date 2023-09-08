@@ -9,6 +9,10 @@
     - import albumentations 부분
     - FutureWarning 관련 augmentations 수정
 
+ # prtrained_model 저장 위치
+- https://drive.google.com/drive/folders/1KCEVGK33SRQLWCIRoJ95imEyz0xqgeqD?usp=sharing
+
+
 
 # 개론
 - U-Net이후의 seminal model인 DenseNet (CVPR 2017) 차용
