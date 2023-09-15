@@ -1,4 +1,6 @@
 # 개요
+1. ㅇ
+- 딥러닝의 시대를 열었음
 - ILSVRC'12 (Imagenet Large Scale Visual Recognition Challenge)
 - 8 layers
   - 5 convolutional layers with a combination of max-pooling layers
