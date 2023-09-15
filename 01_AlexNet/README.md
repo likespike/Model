@@ -53,3 +53,6 @@
 # 관련 논문
 - Image Net Classification with Deep Convolutional Neural Networks (2012)
 - One weird trick for parallelizing convolutional neural networks (2014)
+
+# 참고 자료
+- https://www.youtube.com/watch?v=40Gdctb55BY
