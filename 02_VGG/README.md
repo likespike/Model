@@ -7,3 +7,6 @@
   - Deeper with more non-linearities
   - Fewer parameters
   - 보통 3x3이 gpu나 hardware 최적화하기에 좋은 연산
+
+# 관련 논문
+- VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (2015)
