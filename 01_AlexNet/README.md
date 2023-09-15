@@ -12,7 +12,7 @@
   - Cong-Pool-LRN-Conv-Pool_LRN-Conv-Conv-Conv-Pool-(AdaptiveAvgPool)-FC-FC-FC
     - LRN(Local Response Normalization): batch normalization의 시초 정도
 
-# 성과
+# Alexnet(ILSVRC-2012)
 ![alexnet_01](https://github.com/likespike/Models_and_Papers/assets/117564349/b8c674a9-0e72-4ff1-a68b-a42b19fe8a80)
 <img width="320" alt="alexnet_02" src="https://github.com/likespike/Models_and_Papers/assets/117564349/bab264be-35cd-4916-a875-993190bad05b">
 
