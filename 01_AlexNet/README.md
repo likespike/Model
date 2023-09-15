@@ -12,6 +12,12 @@
   - Cong-Pool-LRN-Conv-Pool_LRN-Conv-Conv-Conv-Pool-(AdaptiveAvgPool)-FC-FC-FC
     - LRN(Local Response Normalization): batch normalization의 시초 정도
 
+# 성과
+![alexnet_01](https://github.com/likespike/Models_and_Papers/assets/117564349/f68042ad-51ca-4caa-bdd2-f902f0a876d2)
+<img width="320" alt="alexnet_02" src="https://github.com/likespike/Models_and_Papers/assets/117564349/bab264be-35cd-4916-a875-993190bad05b">
+
+
+
 # 관련 논문
 - Image Net Classification with Deep Convolutional Neural Networks (2012)
 - One weird trick for parallelizing convolutional neural networks (2014)
