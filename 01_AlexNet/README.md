@@ -1,5 +1,5 @@
 # 개요
-1. ㅇ
+## Overall architecture
 - 딥러닝의 시대를 열었음
 - ILSVRC'12 (Imagenet Large Scale Visual Recognition Challenge)
 - 8 layers
