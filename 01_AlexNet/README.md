@@ -11,3 +11,7 @@
 - Overall architecture
   - Cong-Pool-LRN-Conv-Pool_LRN-Conv-Conv-Conv-Pool-(AdaptiveAvgPool)-FC-FC-FC
     - LRN(Local Response Normalization): batch normalization의 시초 정도
+
+# 관련 논문
+- Image Net Classification with Deep Convolutional Neural Networks (2012)
+- One weird trick for parallelizing convolutional neural networks (2014)
