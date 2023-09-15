@@ -13,7 +13,7 @@
     - LRN(Local Response Normalization): batch normalization의 시초 정도
 
 # 성과
-![alexnet_01](https://github.com/likespike/Models_and_Papers/assets/117564349/f68042ad-51ca-4caa-bdd2-f902f0a876d2)
+![alexnet_01](https://github.com/likespike/Models_and_Papers/assets/117564349/b8c674a9-0e72-4ff1-a68b-a42b19fe8a80)
 <img width="320" alt="alexnet_02" src="https://github.com/likespike/Models_and_Papers/assets/117564349/bab264be-35cd-4916-a875-993190bad05b">
 
 
