@@ -1,16 +1,18 @@
 # 개요
 ## Overall architecture
+- - 딥러닝의 시대를 열었음
 - 8 layers
   - 5 convolutional layers with a combination of max-pooling layers
   - 3 fully connected layers
 - Softmax
   - The activation function used in the output layer is Softmax
 - 650K neurons, 62.3 millions parameters 
-- 딥러닝의 시대를 열었음
 - ReLUs
   - Using better activation function
   - Tanh, Sigmoid -> ReLUs (최대 6배 정도 빠른 실험 결과)
 - GPU 2대 병렬 사용
+  - GPU1: 색감과 관련없는 정보들
+  - GPU2: 색감과 관련 있는 정보들
 - Normalization
   - LRN(Local Response Normalization)
   - batch normalization의 시초 정도
@@ -43,6 +45,10 @@
   - 256x256x3 (RGB)
     - 길이가 짧은 쪽에 맞춰 256으로 rescale 후 center-crop함
  - Cong-Pool-LRN-Conv-Pool_LRN-Conv-Conv-Conv-Pool-(AdaptiveAvgPool)-FC-FC-FC
+   - Conv1: Edge + Blob
+   - Conv3: Texture
+   - Conv5: Object Parts
+   - Fc8: Object Classes
 
  
 # Alexnet(ILSVRC-2012) - Imagenet Large Scale Visual Recognition Challenge
