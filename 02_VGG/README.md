@@ -1,5 +1,5 @@
 # 개요
-- 16 and 19 layers
+- 11, 13, 16 and 19 layers
 - No local response normalization (LRN)
 - Only 3x3 conv filters, 2x2 max-pooling and a few FC layers
 - Using many 3x3 conv layers instead of a small number of larger conv
