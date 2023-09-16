@@ -39,6 +39,7 @@
 - Simple but just deep
   - Following the style of VGG
   - All 3x3 conv filters, except the first conv layer
+    - conv1에서 7x7 kernel과 stride 2로 resolutiond을 확 줄임
   - Batch normalization after every conv layer
   - Periodically, double the number of filters and downsample spatially using stride 2
 - Other remarks
